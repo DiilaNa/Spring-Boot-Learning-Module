@@ -1,7 +1,6 @@
 package lk.ijse.project.bean;
 
 import org.springframework.beans.factory.DisposableBean;
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 @Component

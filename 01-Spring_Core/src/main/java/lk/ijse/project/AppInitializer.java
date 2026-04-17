@@ -1,11 +1,11 @@
 package lk.ijse.project;
 
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
 import lk.ijse.project.bean.MyConnection;
-import lk.ijse.project.bean.SpringBean;
 import lk.ijse.project.bean.TestBean01;
 import lk.ijse.project.bean.TestBean02;
 import lk.ijse.project.config.AppConfig;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class AppInitializer {
     public static void main(String[] args) {
